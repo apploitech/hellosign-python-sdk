@@ -2,7 +2,7 @@ Hellosign Python SDK
 -------------------
 
 
-A Python wrapper for the [HelloSign API](http://www.hellosign.com/api)
+A Python wrapper with apploi requirements (that have been ignore in main repo) for the [HelloSign API](http://www.hellosign.com/api)
 
 
 ## Installation
@@ -10,18 +10,18 @@ A Python wrapper for the [HelloSign API](http://www.hellosign.com/api)
 Install using `easy_install`:
 
 ````sh
-easy_install hellosign-python-sdk
+easy_install hellosign-python-sdk-apploi
 ````
 
 Install using `pip`:
 
 ````sh
-pip install hellosign-python-sdk
+pip install hellosign-python-sdk-apploi
 ````
 
 Install from code:
 ````sh
-git clone https://github.com/HelloFax/hellosign-python-sdk.git
+git clone https://github.com/apploitech/hellosign-python-sdk.git
 cd hellosign-python-sdk
 python setup.py install
 ````
