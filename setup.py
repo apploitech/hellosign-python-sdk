@@ -10,9 +10,9 @@ def readme():
         return f.read()
 
 setup(
-    name='hellosign-python-sdk-apploi',
+    name='hellosign-python-sdk-custom',
     version='1',
-    description="A Python wrapper for the HelloSign API (http://www.hellosign.com/api)",
+    description="A Python wrapper for the HelloSign API with some custom changes (http://www.hellosign.com/api)",
     long_description=readme(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
